@@ -1,4 +1,4 @@
-## Make10se
+## Make10s
 
 Thank you for using "Make10s".
 
