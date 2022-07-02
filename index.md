@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+##Make10s
 
-You can use the [editor on GitHub](https://github.com/Yasashi1987/Make10se/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for using "Make10s".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About Advertisements This application uses AdMob (Google Inc.) as an advertisement distribution tool, and AdMob may automatically acquire information about users. Please refer to the following link of the application privacy policy of the ad-serving company for the information to be acquired, purpose of use, provision to third parties, etc.
 
-### Markdown
+Google Advertising Policy https://policies.google.com/technologies/ads?hl=ja
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+About usage analysis This application uses Firebase (Google Inc.) as a tool to collect usage data for future development, and Firebase may automatically acquire information about users. Please refer to the following Google Privacy Policy link for information on information to be acquired, purpose of use, provision to third parties, etc.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yasashi1987/Make10se/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Google Privacy Policy https://policies.google.com/privacy?hl=ja
